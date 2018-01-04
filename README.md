@@ -7,6 +7,6 @@ idea @Birserg from GitHub
 
 <h3>TODO:</h3>
 
-translate from requests to aiohttp(for performance)
+<strike>translate from requests to aiohttp(for performance)</strike>
 
 implement normal printing animes list
